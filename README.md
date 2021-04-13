@@ -5,7 +5,7 @@ I'm a **Lead Data Scientist** at [Fission Labs - India](https://www.fissionlabs.
 
 Experienced Data Scientist with **7 years** of work in Problem-Solving, Project Management, Pre-sales, and Leadership experience in machine learning, big data analytics, end-to-end process automation, data mining, and visualization. Experience in building machine learning models using state-of-art algorithms for analyzing text, tabular, image, Point-Cloud, Sensor and video streaming data.
 
-I have my phone **M.Tech** degree from **IIT Hyderabad** in **Data Science and Machine Learning (2018-2021)** with a thesis focused on Continual Learning titled _"Multitask language Modeling with Generative Replay"_. I'm working with **Prof. Srijith P.K.** as my advisor for the thesis and I'm part of the Probabilistic Machine Learning Group ([BRAIN](https://sites.google.com/view/brainiith/home)) at IIT-Hyderabad.
+I have done my **M.Tech** degree from **IIT Hyderabad** in **Data Science and Machine Learning (2018-2021)** with a thesis focused on Continual Learning titled _"Multitask language Modeling with Generative Replay"_. I'm working with **Prof. Srijith P.K.** as my advisor for the thesis and I'm part of the Probabilistic Machine Learning Group ([BRAIN](https://sites.google.com/view/brainiith/home)) at IIT-Hyderabad.
 
 I'm interested in collaborations, open source contributions, if not for anything else I'd love to hack and solve problems with code!
 
