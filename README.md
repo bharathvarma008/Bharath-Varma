@@ -109,47 +109,34 @@ Linear Programming, Fourier Series and Laplace Transform, Genetic Algorithms, Ma
 <tr>
   <td class='col-md-2'>Some Algorithms I adore</td>
   <td markdown="1">
-Gradient Descent, Computer Vision for Health-care (UNet, LinkNet, PSM-Net for StereoDepth, Superpoint and the list goes on), <br>
-Siamese Networks, Generative Replay and family of Continual Learning methods, Attention Mechanism & Transformers, GANs etc,. </td>
+Gradient Descent, Computer Vision for Health-care (UNet, LinkNet, PSM-Net for StereoDepth, Superpoint and the list goes on),<br>
+Siamese Networks, Generative Replay and family of Continual Learning methods, Attention Mechanism & Transformers, GANs etc,.</td>
 </tr>
-
 <tr>
   <td class='col-md-2'>Programming</td>
-  <td markdown="1">
-R, Python, SAS(base), SQL, PySpark, Django & Flask with Python, COBOL
-  </td>
+  <td markdown="1">R, Python, SAS(base), SQL, PySpark, Django & Flask with Python, COBOL</td>
 </tr>
 <tr>
   <td class='col-md-2'>Frameworks</td>
-  <td markdown="1">
-Pytorch, Tensorflow, Pandas, Numpy, ScikitLearn, SciPy, Fastai, Transformers library, OpenCV, NLP(Spacy, Gensim, NLTK, huggingface, etc)
-  </td>
+  <td markdown="1">Pytorch, Tensorflow, Pandas, Numpy, ScikitLearn, SciPy, Fastai, Transformers library, OpenCV, NLP(Spacy, Gensim, NLTK, huggingface, etc)</td>
 </tr>
-
 <tr>
   <td class='col-md-2'>ML Deployment</td>
-  <td markdown="1">
-REST APIs, AWS Sagemaker endpoints, MLflow, Docker/Kubernetes, BigData services, Training and Inference on GPUs, CUDA<br>
-<strong>Edge - </strong> ONNX runtime, SNPE/DSP deployments, PyTorch Model Compressions(Teacher-Student Knowledge Distillation), TF-Lite, Nvidia Jetson Nano, Intel Compute Stick 2, Raspberry Pi
-  </td>
+  <td markdown="1">REST APIs, AWS Sagemaker endpoints, MLflow, Docker/Kubernetes, BigData services, Training and Inference on GPUs, CUDA<br>
+<strong>Edge - </strong> ONNX runtime, SNPE/DSP deployments, PyTorch Model Compressions(Teacher-Student Knowledge Distillation), TF-Lite, Nvidia Jetson Nano, Intel Compute Stick 2, Raspberry Pi</td>
 </tr>
-
 <tr>
   <td class='col-md-2'>Other Tools/Languages</td>
-  <td markdown="1">
-JIRA - Confluence, GitLab, Bit Bucket, HP ALM Quality Centre, MS Office, Blender, Meshlab, SUMO, AWS, Tableau, PowerBI </td>
+  <td markdown="1">JIRA - Confluence, GitLab, Bit Bucket, HP ALM Quality Centre, MS Office, Blender, Meshlab, SUMO, AWS, Tableau, PowerBI</td>
 </tr>
-
 <tr>
   <td class='col-md-2'>Databases</td>
   <td markdown="1">
 IBM DB2, MySQL, MongoDB, PostgresQL</td>
 </tr>
-
 <tr>
   <td class='col-md-2'>Familiar with</td>
-  <td markdown="1">
-Hadoop Ecosystem, HTML, and Javascript</td>
+  <td markdown="1">Hadoop Ecosystem, HTML, and Javascript</td>
 </tr>
 </table>
 
