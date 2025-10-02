@@ -1,13 +1,15 @@
 ## Hello there!
 
 
-I'm an experienced Data Scientist with **7+ years** of work in Problem-Solving, Project Management, Pre-sales, and Leadership experience in machine learning, big data analytics, end-to-end process automation, data mining, and visualization. Experience in building machine learning models using state-of-art algorithms for analyzing text, tabular, image, Point-Cloud, Sensor and video streaming data.
+I'm a seasoned Data Scientist with **11 years** of work experience in Problem-Solving, Project Management, Pre-sales, and Leadership experience in machine learning, big data analytics, end-to-end process automation, data mining, and visualization. Experience in building machine learning models using state-of-art algorithms for analyzing text, tabular, image, Point-Cloud, Sensor and video streaming data.
 
-I'm currently pursuing a Tech MBA from Walsh College, focused on Data Science Project Management in Troy, Michigan. Looking for an internhip for summer 2022 anywhere in the US (remote as well). Interested in Data Science, Analytics and Data Product management roles. 
+I'm currently leading Data Science, AI/ML projects at Starbucks USA. 
 
-I have done my **M.Tech** degree from **IIT Hyderabad** in **Data Science and Machine Learning (2018-2021)** with a thesis focused on Continual Learning titled _"Multitask language Modeling with Generative Replay"_. I'm working with **Prof. Srijith P.K.** as my advisor for the thesis and I'm part of the Probabilistic Machine Learning Group ([BRAIN](https://sites.google.com/view/brainiith/home)) at IIT-Hyderabad.
+I have done my **M.Tech** degree from **IIT Hyderabad** in **Data Science and Machine Learning (2018-2021)** with a thesis focused on Continual Learning titled _"Multitask language Modeling with Generative Replay"_. I've worked with **Prof. Srijith P.K.** as my advisor for the thesis and I've been part of the Probabilistic Machine Learning Group ([BRAIN](https://sites.google.com/view/brainiith/home)) at IIT-Hyderabad.
 
-I'm also interested in collaborations, open source contributions, if not for anything else I'd love to hack and solve problems with code!
+I've also done a Tech-MBA with a focus on data science at Walsh College of Accounting and Business Administration, Troy MI. 
+
+I'm interested in collaborations, open source contributions, if not for anything else I'd love to hack and solve problems and build apps!
 
 
 #### Profiles
@@ -53,7 +55,11 @@ Technical Consulting, ML Development & Ops, and Training.
 
 <table class="table table-hover">
 <tr>
-  <td class='col-md-3'>March 2021 - Present</td>
+  <td class='col-md-3'>January 2023 - Present</td>
+  <td><strong>Starbucks</strong>, Tech Lead - Data Science</td>
+</tr>
+<tr>
+  <td class='col-md-3'>March 2021 - Dec 2022</td>
   <td><strong>Fission Labs</strong>, Lead Data Scientist</td>
 </tr>
 <tr>
@@ -62,11 +68,11 @@ Technical Consulting, ML Development & Ops, and Training.
 </tr>
 <tr>
   <td class='col-md-3'>Feb 2018 - June 2019</td>
-  <td><strong>MTW Labs</strong>, Applied Data Scientist</td>
+  <td><strong>MTW Labs</strong>, Founding Data Science Leader</td>
 </tr>
 <tr>
   <td class='col-md-3'>Sep 2017 - Jan 2018</td>
-  <td><strong>hats.ai</strong>, Data Scientist</td>
+  <td><strong>hats.ai</strong>, Founding Data Scientist</td>
 </tr>
 <tr>
   <td class='col-md-3'>July 2014 - Aug 2017</td>
@@ -78,6 +84,34 @@ Technical Consulting, ML Development & Ops, and Training.
 ## <i class="fa fa-chevron-right"></i> Off Note
 
 <table class="table table-hover">
+
+<tr>
+<td class="col-md-3">Top 100 Data mentors in US</td>
+<td>
+  <strong><a href="https://topmate.io/topusers/top100-data-us">TopMate</strong>
+</td>
+</tr>
+
+<tr>
+<td class="col-md-3">AI Professional of the year, USA </td>
+<td>
+  <strong><a href="https://globeeawards.com/2025-winners-artificial-intelligence-awards/">SILVER GLOBEE® AWARD</strong>
+</td>
+</tr>
+
+<tr>
+<td class="col-md-3">Speaker<br>at various Conferences/workshops<br> </td>
+<td>
+  <strong>RTASummit 2025, PeopleAnalytics Conference 2025, CodeQuest Hack 2025</strong>
+</td>
+</tr>
+
+<tr>
+<td class="col-md-3">Technical Peer Reviewer<br>at various Conferences/workshops<br> </td>
+<td>
+  <strong>ICLR, IJCNN, CHIL, ICAD, SysMus, etc.</strong>
+</td>
+</tr>
 
 <tr>
 <td class="col-md-3">Thesis Supervisor<br>at <b><a href="https://www.ljmu.ac.uk/">Liverpool John Moores University</a></b>,<br> 2020 - Present</td>
