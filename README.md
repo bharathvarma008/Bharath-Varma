@@ -68,11 +68,11 @@ Technical Consulting, ML Development & Ops, and Training.
 </tr>
 <tr>
   <td class='col-md-3'>Feb 2018 - June 2019</td>
-  <td><strong>MTW Labs</strong>, Applied Data Scientist</td>
+  <td><strong>MTW Labs</strong>, Founding Data Science Leader</td>
 </tr>
 <tr>
   <td class='col-md-3'>Sep 2017 - Jan 2018</td>
-  <td><strong>hats.ai</strong>, Data Scientist</td>
+  <td><strong>hats.ai</strong>, Founding Data Scientist</td>
 </tr>
 <tr>
   <td class='col-md-3'>July 2014 - Aug 2017</td>
