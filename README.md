@@ -88,52 +88,52 @@ Technical Consulting, ML Development & Ops, and Training.
 <tr>
 <td class="col-md-3">Top 100 Data mentors in US</td>
 <td>
-  <strong><a href="https://topmate.io/topusers/top100-data-us">TopMate</strong>
+  <strong><a href="https://topmate.io/topusers/top100-data-us">TopMate</a></strong>
 </td>
 </tr>
 
 <tr>
-<td class="col-md-3">AI Professional of the year, USA </td>
+<td class="col-md-3">AI Professional of the year, USA</td>
 <td>
-  <strong><a href="https://globeeawards.com/2025-winners-artificial-intelligence-awards/">SILVER GLOBEE® AWARD</strong>
+  <strong><a href="https://globeeawards.com/2025-winners-artificial-intelligence-awards/">SILVER GLOBEE® AWARD</a></strong>
 </td>
 </tr>
 
 <tr>
-<td class="col-md-3">Speaker<br>at various Conferences/workshops<br> </td>
+<td class="col-md-3">Speaker at various Conferences/workshops</td>
 <td>
   <strong>RTASummit 2025, PeopleAnalytics Conference 2025, CodeQuest Hack 2025</strong>
 </td>
 </tr>
 
 <tr>
-<td class="col-md-3">Technical Peer Reviewer<br>at various Conferences/workshops<br> </td>
+<td class="col-md-3">Technical Peer Reviewer at various Conferences/workshops</td>
 <td>
   <strong>ICLR, IJCNN, CHIL, ICAD, SysMus, etc.</strong>
 </td>
 </tr>
 
 <tr>
-<td class="col-md-3">Thesis Supervisor<br>at <b><a href="https://www.ljmu.ac.uk/">Liverpool John Moores University</a></b>,<br> 2020 - Present</td>
+<td class="col-md-3">Thesis Supervisor at <a href="https://www.ljmu.ac.uk/">Liverpool John Moores University</a>, 2020 - Present</td>
 <td>
   <strong>M.Sc Data Science and AI; M.Sc Machine Learning</strong>
 </td>
 </tr>
 
 <tr>
-<td class="col-md-3">Technical Reviewer<br>at <b><a href="https://www.packtpub.com/">Packt Publications</a></b>,<br> 2018 - Present</td>
+<td class="col-md-3">Technical Reviewer at <a href="https://www.packtpub.com/">Packt Publications</a>, 2018 - Present</td>
 <td>
   <strong>Hands-On Deep Learning Algorithms with Python</strong>
   <br>
-  <small><b>by <a href="https://www.packtpub.com/authors/sudharsan-ravichandiran">Sudharsan Ravichandiran</a></b></small>
+  <small>by <a href="https://www.packtpub.com/authors/sudharsan-ravichandiran">Sudharsan Ravichandiran</a></small>
 </td>
 </tr>
 
 <tr>
-<td class="col-md-3">Data Science Consultant<br>at <b><a href="https://www.tapchief.com/">TapChief (acquired by Unacademy)</a></b>,<br> 2017 - 2020</td>
+<td class="col-md-3">Data Science Consultant at <a href="https://www.tapchief.com/">TapChief (acquired by Unacademy)</a>, 2017 - 2020</td>
 <td>
-  • Helping ML enthusiasts with their career transition via consulting calls <br>
-  • Conducting Mock interviews for learners to groom and train them to be industry ready <br>
+  • Helping ML enthusiasts with their career transition via consulting calls<br>
+  • Conducting Mock interviews for learners to groom and train them to be industry ready
 </td>
 </tr>
 </table>
